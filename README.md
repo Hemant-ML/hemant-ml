@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemantml" target="blank"><img src="https://img.shields.io/twitter/follow/hemantml?logo=twitter&style=for-the-badge" alt="hemantml" /></a> </p>
 
-- 🔭 I’m currently working on [Brain Tumor classification using fine tuned resnet 50 architechture](https://github.com/Hemant-ML/Deep-Mind)
+- 🔭 I’m currently working on Computer Vision
 
 - 🌱 I’m currently learning **Pytorch**
 
