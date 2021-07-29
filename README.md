@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://hemant-ml.github.io/hemant](https://hemant-ml.github.io/hemant)
+- 👨‍💻 All of my projects are available at [https://hemantml.codes](https://hemantml.codes)
 
-- 📝 I regularly write articles on [https://hemant-ml.github.io/blog/](https://hemant-ml.github.io/blog/)
+- 📝 I regularly write articles on [https://hemantml.codes/ML2DL](https://hemantml.codes/ML2DL)
 
 - 💬 Ask me about **machine learning, Deep learning and Data science**
 
